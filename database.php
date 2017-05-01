@@ -1,6 +1,5 @@
 <?php
-defined('BASEPATH') OR exit( 'cepmil_expert',
-	'dbdriver' => 'mysqli',
+defined('BASEPATH') OR exit(	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
